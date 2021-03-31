@@ -8,7 +8,7 @@ djangorestframework-jwt==1.11.0
 idna==2.8
 Jinja2==2.10.1
 ldap3==2.4.1
-lxml==4.3.3
+lxml==4.6.3
 MarkupSafe==1.1.1
 passlib==1.7.1
 pyasn1==0.4.5
