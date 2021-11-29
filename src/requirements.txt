@@ -16,7 +16,7 @@ pyasn1-modules==0.2.5
 PyJWT==1.7.1
 PyMySQL==0.8.0
 python-docx==0.8.6
-python-ldap==3.2.0
+python-ldap==3.4.0
 pytz==2019.1
 raven==6.10.0
 requests==2.21.0
