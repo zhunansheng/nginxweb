@@ -13,7 +13,7 @@ MarkupSafe==1.1.1
 passlib==1.7.1
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMySQL==0.8.0
 python-docx==0.8.6
 python-ldap==3.2.0
